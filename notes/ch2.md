@@ -1,5 +1,7 @@
 # Learn Rust
 
+https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
+
 ## Chapter 2
 
 Variables and references are immutable by default
