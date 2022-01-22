@@ -1,5 +1,7 @@
 # Learn Rust
 
+https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html
+
 ## Chapter 3
 
 ### Variables and mutability
