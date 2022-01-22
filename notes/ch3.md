@@ -15,6 +15,7 @@ The other difference between `mut` and shadowing is that because we’re effecti
 ### Data Types
 
 **Scalar types**
+
 A scalar type represents a single value. Rust has four primary scalar types: integers, floating-point numbers, Booleans, and characters
 
 _Integer type_
@@ -38,7 +39,7 @@ _Floating-Point types_
 
 Rust’s floating-point types are `f32` and `f64`
 
-**Compound type**
+#### Compound type
 
 _Tuple type_
 
